@@ -22,4 +22,4 @@ def combination(numbers):
         return "Invalid option!"
 
 if(__name__ == "__main__"):
-    combination()
+    combination() 
